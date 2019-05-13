@@ -1,4 +1,5 @@
 __all__ = ['read','read2']
+print('demo.py')
 money = 100
 def login():
     print('正在执行登录程序')
